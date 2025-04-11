@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->### My Google Developer Profile
+
+Check out my badges and accomplishments on [Google Developer Profile](https://developers.google.com/profile/u/MohdSarfraz)
+
+![Google Developer Badge](https://img.shields.io/badge/Google%20Developer-Profile-blue?logo=google)
