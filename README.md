@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/0b7b7a7a-97e7-436f-b1ca-f3f59d66aea5)
-
 <!--
 **mohdsarfraz08/Mohdsarfraz08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
