@@ -35,10 +35,10 @@ Here are some ideas to get you started:
 ## 🛠️ Languages and Tools:
 
 <p align="left">
- <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" style="height:35px;" />
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" style="height:35px;" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" style="height:35px;" />
-<img src="https://download.blender.org/branding/community/blender_community_badge_orange.png" style="height:35px;" />
+ <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" style="height:45px;" />
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" style="height:45px;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" style="height:45px;" />
+<img src="https://download.blender.org/branding/community/blender_community_badge_orange.png" style="height:45px;" />
   <!-- Add more icons using shields.io or simple image links -->
   </p>
 
