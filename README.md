@@ -25,28 +25,22 @@ Here are some ideas to get you started:
 ## 🏅 Badges
 
 ---
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mdsarfraz2m)
 
-## 👨‍💻 Google Profile
+### 🏆 HackerRank Certifications
 
-<!-- Add icons as image links -->
-![Skillsboost](https://developers.google.com/static/profile/badges/skillsboost/earned-badge/badge.svg)
-![Google I/O](https://developers.google.com/static/profile/badges/events/io/2025/registered/badge.svg)
+- 🧠 [Java(Basic)](https://www.hackerrank.com/certificates/006ba9a5ce81)
 
----
-
-## 📈 LeetCode
-
-![LeetCode](https://leetcard.jacoblin.cool/yourusername?theme=dark&font=Baloo+Bhai&extension=activity)
-
----
 
 ## 🛠️ Languages and Tools:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+ <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" style="height:35px;" />
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" style="height:35px;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" style="height:35px;" />
+<img src="https://download.blender.org/branding/community/blender_community_badge_orange.png" style="height:35px;" />
   <!-- Add more icons using shields.io or simple image links -->
-</p>
+  </p>
 
 ---
 
@@ -54,4 +48,3 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white)](#)
-[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](#)
