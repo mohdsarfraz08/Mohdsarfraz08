@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" style="height:45px;" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" style="height:45px;" />
 <img src="https://download.blender.org/branding/community/blender_community_badge_orange.png" style="height:45px;" />
+ <img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" style="height:45px;" />
   <!-- Add more icons using shields.io or simple image links -->
   </p>
 
