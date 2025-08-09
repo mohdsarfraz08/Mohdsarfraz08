@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" style="height:45px;" />
 <img src="https://download.blender.org/branding/community/blender_community_badge_orange.png" style="height:45px;" />
  <img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" style="height:45px;" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" style="height:45px;" />
   <!-- Add more icons using shields.io or simple image links -->
   </p>
 
@@ -47,5 +48,5 @@ Here are some ideas to get you started:
 
 ## 📫 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](#https://www.linkedin.com/in/mohd-sarfaraz08)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-sarfaraz08)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white)](#)
