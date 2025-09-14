@@ -50,3 +50,7 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-sarfaraz08)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white)](#)
+
+---
+<img src="https://komarev.com/ghpvc/?username=mohdsarfraz08&label=Profile%20views&color=0e75b6&style=flat" alt="mohdsarfraz08" />
+
