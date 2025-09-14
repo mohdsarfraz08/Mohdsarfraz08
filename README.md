@@ -56,7 +56,6 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=mohdsarfraz08&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/mohdsarfraz08?label=Followers&style=flat&color=blue" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/mohdsarfraz08?label=Stars&style=flat&color=yellow" alt="GitHub Stars" />
-  <img src="https://img.shields.io/badge/Public%20Repos-✔️-brightgreen?style=flat" alt="Repos" />
 </p>
 
 
