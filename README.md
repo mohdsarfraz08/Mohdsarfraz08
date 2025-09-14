@@ -52,5 +52,11 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white)](#)
 
 ---
-<img src="https://komarev.com/ghpvc/?username=mohdsarfraz08&label=Profile%20views&color=0e75b6&style=flat" alt="mohdsarfraz08" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mohdsarfraz08&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/mohdsarfraz08?label=Followers&style=flat&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/mohdsarfraz08?label=Stars&style=flat&color=yellow" alt="GitHub Stars" />
+  <img src="https://img.shields.io/badge/Public%20Repos-✔️-brightgreen?style=flat" alt="Repos" />
+</p>
+
 
