@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🌐 I'm a Mohd Sarfraz.
 - 🚀 I'm currently working on `Aetherplan`.
-- 🌱 I'm currently learning Node.Js.
+- 🌱 I'm currently learning `Flutter`.
 - 💬 I am passionate about Open Source and Tech Communities
 
 ---
