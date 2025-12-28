@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi There</h1>
 
 - 🌐 I'm a Mohd Sarfraz.
-- 🚀 I'm currently working on `Prayagraj Public Transport & Crowd Density Visualizer`.
+- 🚀 I'm currently working on `Aetherplan`.
 - 🌱 I'm currently learning Node.Js.
 - 💬 I am passionate about Open Source and Tech Communities
 
