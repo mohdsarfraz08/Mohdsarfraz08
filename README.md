@@ -95,7 +95,7 @@ Tech Stack
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%"> 
 
 ### 🌱 Carbon Footprint Calculator
 
@@ -137,7 +137,7 @@ Tech Stack
 ### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,flutter,blender"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,blender"/>
 </p>
 
 ---
