@@ -153,6 +153,20 @@ Tech Stack
 
 # 🏆 Certifications
 
+### Google Developer Badges
+
+<p align="center">
+  <a href="https://g.dev/MohdSarfraz">
+    <img src="https://developers.google.com/static/profile/badges/community/gdg/discovery/badge.svg" height="100"/>
+    <img src="https://developers.google.com/static/profile/badges/events/io/2026/registered/badge.svg" height="100"/>
+    <img src="https://developers.google.com/static/profile/badges/community/gdg/GDGoC/member/badge.svg" height="100"/>
+    <img src="https://developers.google.com/static/profile/badges/nvidia-developer/badge.svg" height="100"/>
+    <img src="https://developers.google.com/static/profile/badges/activity/android/install-android-studio/badge.svg" height="100"/>
+    <img src="https://developers.google.com/static/profile/badges/skillsboost/earned-badge/badge.svg" height="100"/>
+    <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" height="100"/>
+    
+  </a>
+</p>
 ### HackerRank
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge\&logo=HackerRank\&logoColor=white)](https://www.hackerrank.com/mdsarfraz2m)
