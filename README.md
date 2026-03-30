@@ -86,10 +86,9 @@ Interests:
 
 ### 🤖 AI Assistant Engine
 
-Modular AI assistant with intent parser, system command execution, and cross-platform architecture.
-
-Tech Stack
-`Python` `NLP` `System Design`
+<a href="https://github.com/mohdsarfraz08/Deniz-core">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mohdsarfraz08&repo=Deniz-core&theme=tokyonight"/>
+</a>
 
 </td>
 </tr>
