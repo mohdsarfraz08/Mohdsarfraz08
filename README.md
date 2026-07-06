@@ -141,15 +141,6 @@ Tech Stack
 
 ---
 
-# 🎯 Current Focus
-
-* 🚀 Building **AetherPlan**
-* 🧠 Integrating **AI into real-world applications**
-* ⚡ Learning **backend architecture & system design**
-* 📱 Exploring **Flutter for cross-platform apps**
-
----
-
 # 🏆 Certifications
 
 ### Google Developer Badges
