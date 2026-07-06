@@ -143,7 +143,7 @@ Tech Stack
 
 # 🏆 Certifications
 
-### Google Developer Badges
+* ### Google Developer Badges
 
 <p align="center">
   <a href="https://g.dev/MohdSarfraz">
@@ -157,9 +157,8 @@ Tech Stack
     
   </a>
 </p>
-### HackerRank
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge\&logo=HackerRank\&logoColor=white)](https://www.hackerrank.com/mdsarfraz2m)
+* [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge\&logo=HackerRank\&logoColor=white)](https://www.hackerrank.com/mdsarfraz2m)
 
 * 🧠 Java (Basic)
 
