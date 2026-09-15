@@ -26,6 +26,7 @@
 </a>
 </p>
 
+<!--
 ---
 
 # 👨‍💻 About Me
@@ -46,7 +47,7 @@
 🎨 I also create **3D environments and assets using Blender**
 
 ---
-
+-->
 # 🧑‍💻 Developer Identity
 
 ```yaml
@@ -67,7 +68,7 @@ Interests:
 ```
 
 ---
-
+<!--
 # 🚀 Featured Projects
 
 <table>
@@ -238,8 +239,8 @@ Tech Stack
 <img src="https://komarev.com/ghpvc/?username=mohdsarfraz08&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
+-->
 <!-- ================= FOOTER ================= -->
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 </p>
