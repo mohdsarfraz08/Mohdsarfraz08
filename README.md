@@ -24,6 +24,9 @@
 <a href="https://www.hackerrank.com/mdsarfraz2m">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 </a>
+<a href="https://leetcode.com/u/MohdSarfraz08/">
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=yellow"/>
+</a>
 </p>
 
 <!--
